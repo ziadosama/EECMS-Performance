@@ -1,5 +1,5 @@
 # EECMS-Performance
-Some of the Scripts used for EECMS (European Egyptian Contemporary Music Society) "My Voice, Your Voice, Our Voice" in Cairo Contemporary Music Days 2018
+Some of the Sketches used for EECMS (European Egyptian Contemporary Music Society) "My Voice, Your Voice, Our Voice" in Cairo Contemporary Music Days 2018
 
 My visuals along with Kamilya Jubran and sound artist Jacqueline George
 
